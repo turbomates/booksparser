@@ -1,7 +1,7 @@
 <?php
 declare(strict_types=1);
 
-namespace App\Infrastructure\Statistic;
+namespace App\Application\Statistic;
 
 use App\Domain\Book\Book;
 use App\Infrastructure\Query;

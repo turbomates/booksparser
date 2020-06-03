@@ -8,7 +8,7 @@ use App\Application\Statistic\Query\NoBooksQuery;
 use App\Domain\Statistic\DayBooksCount;
 use App\Domain\Statistic\NoBooks;
 use App\Infrastructure\QueryExecutor;
-use App\Infrastructure\Statistic\CountByAuthorQuery;
+use App\Application\Statistic\CountByAuthorQuery;
 use Symfony\Component\Console\Command\Command;
 use Symfony\Component\Console\Input\InputArgument;
 use Symfony\Component\Console\Input\InputInterface;
